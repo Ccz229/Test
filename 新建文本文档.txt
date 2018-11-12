@@ -1,0 +1,3 @@
+git config -global user.name'³Â×Ú'
+git config -global user.email 1250743913@qq.com
+git config -list
